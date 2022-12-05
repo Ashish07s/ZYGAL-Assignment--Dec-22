@@ -1,7 +1,6 @@
 # ZYGAL-Assignment--Dec-22
 
 Name : Ashish Nandkumar Sasatte
-Mob No: 9145726291
 
 Task to perform :
 
